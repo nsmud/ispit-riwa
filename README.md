@@ -1,4 +1,4 @@
-# ispit-riwa
+# cd ispit-riwa
 # git clone 'link repozitorija'
 # npm install -i @quasar/cli
 # quasar create
